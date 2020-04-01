@@ -75,4 +75,3 @@ def mc_cluskey(k_jedinice, b_slova):
     return vrati
 
 
-print(mc_cluskey([0,1,2,4,5,6,10,14,7,11,15], 4))
